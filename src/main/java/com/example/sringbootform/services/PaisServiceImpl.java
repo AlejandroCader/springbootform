@@ -18,7 +18,8 @@ public class PaisServiceImpl implements PaisService{
                 new Pais(4, "AR", "Argentina"),
                 new Pais(5, "PE", "Perú"),
                 new Pais(6, "CO", "Colombia"),
-                new Pais(7, "VE", "Venezuela"));
+                new Pais(7, "VE", "Venezuela"),
+                new Pais(8, "SV", "El Salvador"));
     }
 
     @Override
